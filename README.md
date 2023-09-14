@@ -6,6 +6,6 @@ The idea was to create a model that would allow students and professionals to se
 
 The data was scrapped from Zillow and Apartment.com
 
-Here is the final report that goes over the whole process of project including the data and the results: [Final Project Report.pdf](https://github.com/AtharvaDharia0732/Real-Estate-Price-Predictor-Python/blob/main/Final%20Project%20Report.pdf)</a>
+Here is the final report that goes over the whole process of project including the data and the results: [Final Project Report.pdf](https://github.com/AtharvaDharia0732/Real-Estate-Price-Predictor-Python/blob/main/Final%20Project%20Report.pdf)
 
 </p>
