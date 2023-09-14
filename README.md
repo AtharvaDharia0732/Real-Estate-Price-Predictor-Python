@@ -6,6 +6,6 @@ The idea was to create a model that would allow students and professionals to se
 
 The data was scrapped from Zillow and Apartment.com
 
-Here is the final report that goes over the whole process of project including the data and the results: Project Report
+Here is the final report that goes over the whole process of project including the data and the results:<a> Project Report href="Final Project Report.pdf"  </a>
 
 </p>
