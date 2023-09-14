@@ -1,3 +1,8 @@
-# class-project----cs-418-spring-2023-3-data-scientists
-class-project----cs-418-spring-2023-3-data-scientists created by GitHub Classroom
-The start of our CS 418 Final Project
+# Real-Estate-Price-Predictor-Python
+The project entailed the concepts of web scraping, ML, data visualisation and analysis using Python, Power BI & SQL.
+
+The idea was to create a model that would allow students and professionals to search and locate apartments to rent.
+
+The data was scrapped from Zillow and Apartment.com
+
+Here is the final report that goes over the whole process of project including the data and the results:
