@@ -1,4 +1,4 @@
-# Real-Estate-Price-Predictor-Python
+# Housing Forecast: Real Estate Predictive Analytics-Python
 
 <h3>Project Title: Predictive Analysis of Apartment Rentals in Chicago </h3>
 
